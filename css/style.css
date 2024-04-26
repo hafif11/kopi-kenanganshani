@@ -186,6 +186,10 @@ body {
     margin-bottom: 1rem;
 }
 
+.about .row .content h3 span {
+    background-color: var(--primary);
+}
+
 .about .row .content p {
     margin-bottom: 0.8rem;
     font-size: 1.3rem;
